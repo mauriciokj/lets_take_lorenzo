@@ -1,10 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../tutoriais/lets take lorenso/dia 4/lets_take_lorenzo/game/Assets/scripts/Start.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PlayerControl.cs">
     <Files>
-      <File FileName="../../tutoriais/lets take lorenso/dia 4/lets_take_lorenzo/game/Assets/scripts/GameOver.cs" Line="10" Column="59" />
-      <File FileName="../../tutoriais/lets take lorenso/dia 4/lets_take_lorenzo/game/Assets/scripts/PlayerControl.cs" Line="23" Column="30" />
-      <File FileName="../../tutoriais/lets take lorenso/dia 4/lets_take_lorenzo/game/Assets/scripts/Start.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/MoveEnemy.cs" Line="38" Column="1" />
+      <File FileName="Assets/scripts/PlayerControl.cs" Line="21" Column="5" />
+      <File FileName="Assets/scripts/GameOver.cs" Line="11" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
